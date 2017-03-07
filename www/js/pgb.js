@@ -28,5 +28,5 @@ function mydata()
 	'Name : mateusz'+
 	'Nazwisko : Salawa' +
 	'Student : Wsei';
-	
+	navigator.notification.alert(datainfo);
 }
