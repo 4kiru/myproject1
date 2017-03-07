@@ -20,3 +20,13 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function mydata()
+{
+	
+	datainfo = 'Your Personal Data : ' + '\n' +
+	'Name : mateusz'+
+	'Nazwisko : Salawa' +
+	'Student : Wsei';
+	
+}
